@@ -8,3 +8,6 @@ Agglomerative cluster:
         3)It is more efficient than that of the divisive clustring method.
 
 Note: For clustering of music data using agglomerative co-clustering method the souce code is enclosed.The Language used is Java Server Pages(jsp). 
+
+Reference IEEE paper:
+        Hierarchical Co-Clustering: A New Way to Organize the Music Data
